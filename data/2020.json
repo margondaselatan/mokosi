@@ -1,0 +1,4386 @@
+[{
+        "npm": "2006483555",
+        "nama": "Achmad Arvanza Rivaie",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006536826",
+        "nama": "Adinda Amalia Puspita Wijayanti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572535",
+        "nama": "Adinda Nurhidayatul Fajri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569055",
+        "nama": "Afra Aulia Rahmah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006531182",
+        "nama": "Ahmad Jutrnzenka Ilyas",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470243",
+        "nama": "Ainun Zahrotul Fahmiya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569401",
+        "nama": "Akhris Fuadatis Sholihah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006469714",
+        "nama": "Ameylia Maharani Akhda",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006526882",
+        "nama": "Aninda Asshifa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006534455",
+        "nama": "Anissa Dwi Ariyanti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470136",
+        "nama": "Annisa Rahmani Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568986",
+        "nama": "Aqila Vanadia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006531661",
+        "nama": "Arsya Ramadina Semudi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483220",
+        "nama": "Audrey Aurellea Artato",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006536542",
+        "nama": "Aulia Maretha Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485876",
+        "nama": "Aulia Rahimah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484936",
+        "nama": "Aurellia Azahra Syahalan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572516",
+        "nama": "Azzahra Fauzia Hanaum",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569162",
+        "nama": "Bella Rose Simangunsong",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569351",
+        "nama": "Caesar Daffa Arif Pratomo",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006469595",
+        "nama": "Cahya Kurnia Kusumawarni",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470325",
+        "nama": "Carla Mariana Nainggolan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572604",
+        "nama": "Cinantya Nadhifa Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572485",
+        "nama": "Cori Oktaviany",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569023",
+        "nama": "Daffa Raditya Fernanda",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569124",
+        "nama": "Destia Puri Prela Renita",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006524662",
+        "nama": "Devi Tryana",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486821",
+        "nama": "Dhafin Arga Wira",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569212",
+        "nama": "Dhien Izzati Hasanah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006529316",
+        "nama": "Dian Febrina Ayu Pramudita",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006526320",
+        "nama": "Dimas Haryo Fitrianto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569225",
+        "nama": "Din Wijaya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006534575",
+        "nama": "Dinda Permata Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569105",
+        "nama": "Dionanda Dafito",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006469954",
+        "nama": "Diza Tazkiya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572554",
+        "nama": "Donny Kurnia Ramadhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569143",
+        "nama": "Duwin Feloi Saragih",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572592",
+        "nama": "Dwi Satrio Ramadhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572655",
+        "nama": "Dzikrina Puspita",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569194",
+        "nama": "Edwin Arga Wiranata",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006469916",
+        "nama": "Elma Nur Fatimah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569396",
+        "nama": "Elsa Herlina Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532046",
+        "nama": "Farrah Nabilla Irfan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006469670",
+        "nama": "Fasya Octavia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572472",
+        "nama": "Fathan Mubina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006526346",
+        "nama": "Firliani Nabila Aulia Montie",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006469834",
+        "nama": "Fiti Aigaka",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569042",
+        "nama": "Frieska Amelia Widya Ananda",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470211",
+        "nama": "Gabriella Charlotte Verina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006525513",
+        "nama": "Gabriella Sharon",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006524725",
+        "nama": "Hanif Al Husaini",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485176",
+        "nama": "Haykal Ahsan Muhammad",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569332",
+        "nama": "I Dewa Putu Wibisana Wikananda",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006531320",
+        "nama": "Ibrahim Arif",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483076",
+        "nama": "Indira Fatta Mazida",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470060",
+        "nama": "Intan Lestari",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572560",
+        "nama": "Irvan Saputra Bahri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569420",
+        "nama": "Ivana Hapsari Janice",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006530192",
+        "nama": "Izzah Mazidah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569295",
+        "nama": "Jeremy Matthew Emmanuella L.",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569231",
+        "nama": "Jessica Handopo",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569326",
+        "nama": "Josiana Nethania",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006520600",
+        "nama": "Kathleen Ilene Ngalusi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485333",
+        "nama": "Khairunisa Geo Pastrina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006534152",
+        "nama": "Kresnanda Triputra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006524864",
+        "nama": "Leondy Tristan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484620",
+        "nama": "Livia Zafira Adiyantara",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568960",
+        "nama": "M. Raihan Fadhillah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569175",
+        "nama": "Marsha Aletta",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483486",
+        "nama": "Melissa Reinata",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006526781",
+        "nama": "Melvin Sandrian Hadi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568935",
+        "nama": "Minerva Teresa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569111",
+        "nama": "Moh. Soffa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006469872",
+        "nama": "Mohammad Faiz Ogi Bimantara",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006469550",
+        "nama": "Muhammad Altaf Aaron Zakaria",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470174",
+        "nama": "Muhammad Emir Rasyid",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485932",
+        "nama": "Muhammad Fauzi Adam. S",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569093",
+        "nama": "Muhammad Fika 'Izzul Wafa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006527696",
+        "nama": "Muhammad Irfan Afifudin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006487383",
+        "nama": "Muhammad Praja Kusuma",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572642",
+        "nama": "Muhammad Syirat Fathannullah Pitres",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569036",
+        "nama": "Muhammad Zulfikar Anwar",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569263",
+        "nama": "Nadia Asmawari Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483504",
+        "nama": "Nadia Shafira Kurniawan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485144",
+        "nama": "Nadiza Zahrani Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006536933",
+        "nama": "Nadya Salsabila",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532941",
+        "nama": "Natasya Maulidan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006533471",
+        "nama": "Natasyah Januarti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569130",
+        "nama": "Nur Rachmah Salsabila",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569282",
+        "nama": "Prinsha Alifina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521755",
+        "nama": "Putera Ikhsan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572610",
+        "nama": "Qonita Muthmainah Nafisah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569345",
+        "nama": "Qurrothul Dwi Aini",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006469752",
+        "nama": "Rafasyah Syafira Darsono",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569080",
+        "nama": "Rafli Maulana Muhammad",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568954",
+        "nama": "Rahma Wirdatul Umami",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006527380",
+        "nama": "Ratna Ayu Lestari",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569276",
+        "nama": "Ratu Nida Hamidah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486922",
+        "nama": "Rayhanda Raffy Pradana",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485301",
+        "nama": "Reha Aulia Nisa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569181",
+        "nama": "Reihana Nadia Sabrina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006469790",
+        "nama": "Resisca Anastasya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569313",
+        "nama": "Rizkia Aulia Nida",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569206",
+        "nama": "Saktyo Adhi Nugroho",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485812",
+        "nama": "Salma Chaerani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006523426",
+        "nama": "Salsabiila Bazaluna F.",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006469992",
+        "nama": "Salsabila Fatma Atthiyya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569383",
+        "nama": "Salsabila Putri Fathia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569370",
+        "nama": "Sesario Opriantama",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006487540",
+        "nama": "Shafira Berliany Nafisah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485301",
+        "nama": "Shane Ed Luverne",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006525564",
+        "nama": "Siti Maryamah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572522",
+        "nama": "Siti Nuralifah Indah Salsabila",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572541",
+        "nama": "Siwi Dwi Hastuti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572623",
+        "nama": "Sovya Salwa Salsabila",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482994",
+        "nama": "Syabita Tofani Haryadi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528540",
+        "nama": "Tiara Hana Azzahra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006526402",
+        "nama": "Timotius Pramudita Rasendriya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486815",
+        "nama": "Vanadisa Isti Primanda",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568973",
+        "nama": "Vinka Valencia Liman",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006526970",
+        "nama": "Yasmin Verena Jerissia Murtagh",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569074",
+        "nama": "Zahra Phietri Nabila",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006469632",
+        "nama": "Zaika Rajabdihara Kurniawan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569156",
+        "nama": "Ziad Abdullah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569982",
+        "nama": "Adhiyoga Perdanajati S",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572283",
+        "nama": "Adinda Aisyah Nurul Ilmi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482956",
+        "nama": "Agasqha Wisesa Putra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473693",
+        "nama": "Ahmad Arsy",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569976",
+        "nama": "Ahmad Faqih",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532525",
+        "nama": "Albert",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569995",
+        "nama": "Albert Andersen",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471076",
+        "nama": "Aldillah Larasati",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570063",
+        "nama": "Alief Maulana Shiddiq",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569931",
+        "nama": "Ambi Muhammad Avisena",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006533276",
+        "nama": "Andhika Hilal Putra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570006",
+        "nama": "Andre Christoga P",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569963",
+        "nama": "Annisa Rachman",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006523451",
+        "nama": "Annisa Salsabila Dwi Syafira",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006530394",
+        "nama": "Arif Ihsan Kamil",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572421",
+        "nama": "Aryo Haris Wirakusuma Sudrajad",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570076",
+        "nama": "Balthasar Toslur Hasaraini Lase",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471265",
+        "nama": "Budi Purnomo",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471183",
+        "nama": "Cintya Dyahanindita",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470804",
+        "nama": "Davendra Shayna Hassan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482281",
+        "nama": "Denny Reynaldy Fajrin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006525040",
+        "nama": "Deva Rifa Nurgantini",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470520",
+        "nama": "Devani Fitriani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570391",
+        "nama": "Diaz Ramadhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006533755",
+        "nama": "Dinanta Raputra P.",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532222",
+        "nama": "Dinda Syifa Hamidah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006535325",
+        "nama": "Dzulfiqar Fauzan R.",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528616",
+        "nama": "Emmanuel Rieno B. P",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570220",
+        "nama": "Fadhil Taufiqul Akbar Rusady",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570196",
+        "nama": "Fadia Assyifa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470842",
+        "nama": "Fadly Azril Priodani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570183",
+        "nama": "Fakhrazani Nurhusna S",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006524536",
+        "nama": "Ferdian Razak",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570164",
+        "nama": "Ferdian Yudha Ranadya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532411",
+        "nama": "Ferry Ananda Ramadhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569944",
+        "nama": "Gavin Setiawan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470483",
+        "nama": "Haifa Nida Nur Madjid",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532494",
+        "nama": "Hanifa Senandung K",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483214",
+        "nama": "Harandy Merza Ardhava",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570050",
+        "nama": "Hendriawan Alfitodinova",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006522436",
+        "nama": "Hendry",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483883",
+        "nama": "Ilga Pradipta Dyah Prameswari",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570132",
+        "nama": "Imad Minhajillah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006536555",
+        "nama": "Indira Rahma Dewani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006530053",
+        "nama": "Irvine Ringgo",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486903",
+        "nama": "Itang Tri Biyanto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006525274",
+        "nama": "Jason Albert Nathanael",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006474020",
+        "nama": "Jesaya Christian Ido R",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570372",
+        "nama": "Jhon Paul Estomihi Togatorop",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572390",
+        "nama": "Jilan Aqila Azzahra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470400",
+        "nama": "Juan Wiratama",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484116",
+        "nama": "Kauli Daffa Yomadine",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570403",
+        "nama": "Kevin Laurent",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485900",
+        "nama": "Khairunnisa Nurazizah Mahastuti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570082",
+        "nama": "Lamhot Padly Simatupang",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473680",
+        "nama": "Leonardus Brahmantyo Putra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572296",
+        "nama": "Lysia Lathifa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570416",
+        "nama": "M. Aryo Wicaksono",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572352",
+        "nama": "M. Atharsyah Shidqi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570290",
+        "nama": "M. Fajar Syarifuddin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521414",
+        "nama": "M. Razaan Azra G.",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570334",
+        "nama": "M. Risaldi Faizzudin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006526794",
+        "nama": "M. Syahrul Zain",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483712",
+        "nama": "Made Devinda",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471113",
+        "nama": "Marchelino Whiancahya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570315",
+        "nama": "Marlo Emiliano Muktiono",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570012",
+        "nama": "Mohammad Eqy Firmansyah Putra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470685",
+        "nama": "Mohammad Hatta",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485661",
+        "nama": "Muhamad Audi Sentosa Alfatih Sochib",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572415",
+        "nama": "Muhamad Fadhil M",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470445",
+        "nama": "Muhamad Fauzan Adzim",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570284",
+        "nama": "Muhamad Rizqi Yuwanto Hanapi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570031",
+        "nama": "Muhamad Septiansyah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572314",
+        "nama": "Muhammad Afaf Amani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569950",
+        "nama": "Muhammad Arsyad Syahabuddin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006481921",
+        "nama": "Muhammad Farhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521004",
+        "nama": "Muhammad Faruq Hizburrabbani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521023",
+        "nama": "Muhammad Hayillah Al Hamim",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521723",
+        "nama": "Muhammad Luthfi Ramadhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570145",
+        "nama": "Muhammad Rakha Adhipratama",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470760",
+        "nama": "Muhammad Raul Fattah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470880",
+        "nama": "Muhammad Reynaldo Putrayadi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006535104",
+        "nama": "Muhammad Rizki Nugroho",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528004",
+        "nama": "Muhammad Ziyad",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570151",
+        "nama": "Muhammad Ziyad Ain Nur Rafif",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470962",
+        "nama": "Mutiara Dwi Rangganis",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485296",
+        "nama": "Natanael Suranta",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570095",
+        "nama": "Nicholas Bayu",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570126",
+        "nama": "Nur Meysha Maulina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572371",
+        "nama": "Nuraini Rifdha Hanawarman",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484091",
+        "nama": "Nurul Luthfiyyah Rahmat",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006487332",
+        "nama": "Oriza Sativa R. N",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006534770",
+        "nama": "Priska Amalia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006533111",
+        "nama": "Raafiqy Ramadhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570271",
+        "nama": "Rahman Ariowibowo",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570340",
+        "nama": "Raihansyah Arifin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470722",
+        "nama": "Rani Syafrila",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006522266",
+        "nama": "Razin Sabil Asytada",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570113",
+        "nama": "Restu Alfath",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572402",
+        "nama": "Ricky Iskandar Z.",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471220",
+        "nama": "Rifka Anggraeni",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570353",
+        "nama": "Rios Sanjaya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570422",
+        "nama": "Rizqi Akmalia J.",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470615",
+        "nama": "Roviani Amelia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482666",
+        "nama": "Roxanne Filda",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572333",
+        "nama": "Russell Rene",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486286",
+        "nama": "Salma Nuraida",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572466",
+        "nama": "Sarah Salsabilla A",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482722",
+        "nama": "Shania Virya Asmara",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572301",
+        "nama": "Siti Shafa Adilah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570252",
+        "nama": "Siti Zulaikho",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471031",
+        "nama": "Talitha Athaila Bathary",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006520241",
+        "nama": "Thomas Hadi Wijaya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570214",
+        "nama": "Trinisa Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486866",
+        "nama": "Vika Dinda Kusuma Wardhani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572434",
+        "nama": "Wulan Agustin Judith P. H.",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006470924",
+        "nama": "Yohana",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482224",
+        "nama": "Yusuf Adrizal Djohan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570044",
+        "nama": "Zahra Nurasma",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570321",
+        "nama": "Zahran Aris",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485794",
+        "nama": "Zanita Elysia Isril",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570302",
+        "nama": "Zidane Ahmad Kurniatama",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569742",
+        "nama": "Adi Jamaludin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006535294",
+        "nama": "Afifa Ayu Nastiti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572812",
+        "nama": "Afifah Azzahra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569433",
+        "nama": "Afifah Marwa Marbun",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486355",
+        "nama": "Ahmad Fauzan Cahyadi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006536372",
+        "nama": "Ahmad Gufron",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483095",
+        "nama": "Aisyah Saraswati",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486954",
+        "nama": "Aisyah Tri Handayani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569622",
+        "nama": "Aisyah Zahra Ramadhini",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471813",
+        "nama": "Akhilla Nazwa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572730",
+        "nama": "Alia Junisar Shafira",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528673",
+        "nama": "Almas Satria Bimantara",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572756",
+        "nama": "Alva Khairy Muharram",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569704",
+        "nama": "Alvin Surya Mahendra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572844",
+        "nama": "Amanda Damayanti Wibowo",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569603",
+        "nama": "Amelia Insan Pratiwi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006536403",
+        "nama": "An Hye Sung",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569906",
+        "nama": "Andre Yuanda Putra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485030",
+        "nama": "Annisya Ayu Azzahrah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569446",
+        "nama": "Anrisa Claresta Rizky",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569881",
+        "nama": "Aqil Al Ahnaf",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572781",
+        "nama": "Arsen Makomi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485806",
+        "nama": "Athaya Nur Khalishah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006526314",
+        "nama": "Athiyyah Fahria Dewi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006487553",
+        "nama": "Benedictus Krisnandaru Aji",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569843",
+        "nama": "Bima Sartha Yudha",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484066",
+        "nama": "Brielyano Gema Winando",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006530910",
+        "nama": "Claudia Janefer Romora Sitanggang",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484204",
+        "nama": "Daffa Yannuar Vitoarsa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472085",
+        "nama": "Debyta Sharani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569875",
+        "nama": "Desfani Alphabenayya Rezqi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006531964",
+        "nama": "Dhavani Ardyas Putera",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472526",
+        "nama": "Dimas Setya Herdani Ruslan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006530740",
+        "nama": "Dita Puspita",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569521",
+        "nama": "Doni Setiawan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572825",
+        "nama": "Edward Hamonangan Xavier",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006526125",
+        "nama": "Eka Firmansyah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569585",
+        "nama": "Elrafha Wilmar",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486834",
+        "nama": "Etang Lintang",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006520550",
+        "nama": "Evelyn Firdausi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569894",
+        "nama": "Ezia Purnama Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569686",
+        "nama": "Fadhia Habiba Ayyumi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569471",
+        "nama": "Fadhil Andhika Suwadana",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006534410",
+        "nama": "Faiq Roef Pandu",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006529915",
+        "nama": "Fajar Ramadhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569654",
+        "nama": "Farhan Aqil Musyafa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471776",
+        "nama": "Farisya Isnaayu Khairinisa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006530614",
+        "nama": "Febi Zulaikha",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006534966",
+        "nama": "Fiska Noviliyanti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569793",
+        "nama": "Gaza Adissa Rachma",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572794",
+        "nama": "Hanif Arifianto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569553",
+        "nama": "Harits Fathurrahman",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569452",
+        "nama": "Haura Hazema Alya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569736",
+        "nama": "Helmi Rahmat Fachrizal",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572705",
+        "nama": "Idfan Nasywan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569912",
+        "nama": "Ilham Mus Sugiantoro",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569616",
+        "nama": "Ivena Fariza",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482975",
+        "nama": "Jeremia Alexander",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569774",
+        "nama": "Joses Vinson",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569755",
+        "nama": "Kemas Abel Ramadhan Putra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471896",
+        "nama": "Khofiyana Putri Widyaningrum",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483832",
+        "nama": "Lingga Maheswara",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569540",
+        "nama": "Lovlynadaa Zalfaa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006520992",
+        "nama": "Luthfiyyah Damayani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572724",
+        "nama": "Luthfiyyah Nur Athifah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472482",
+        "nama": "Magdalena Handrica Natasya Gadja",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528944",
+        "nama": "Marcella",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569660",
+        "nama": "Michelle Agustaranny Sekar Arum",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472242",
+        "nama": "Michelle Emily Arthavia Buntoro",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572762",
+        "nama": "Mohammad Raditia Pradana",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569830",
+        "nama": "Muhamad Yusril Azra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569591",
+        "nama": "Muhammad Abdurrahman",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483851",
+        "nama": "Muhammad Abrar Rizqullah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006536593",
+        "nama": "Muhammad Annas Fathoni",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569862",
+        "nama": "Muhammad Faiz Utama",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572863",
+        "nama": "Muhammad Farenzi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006520582",
+        "nama": "Muhammad Ghifari Shafa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532260",
+        "nama": "Mutiara Saniyya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006523691",
+        "nama": "Nabhan Musyaffa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572743",
+        "nama": "Nabilla Puspa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569824",
+        "nama": "Nabilla Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569925",
+        "nama": "Nadhifah Luthfiah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472204",
+        "nama": "Nadya Atameiviana Sopian",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483561",
+        "nama": "Naufal Arya Raihasa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471971",
+        "nama": "Nita Sonia Nuraini",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472280",
+        "nama": "Nova Anugrah Pramudya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006524315",
+        "nama": "Nurisya Zoya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486191",
+        "nama": "Nurrahma Sabila Wikana Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472362",
+        "nama": "Pitria Salma Umiyatun",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472406",
+        "nama": "Prasetiawan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572850",
+        "nama": "Prima Amanzky Ismiz",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569484",
+        "nama": "Primamulia Teguh",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472040",
+        "nama": "Rafasyah Orvala Sukoco",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483776",
+        "nama": "Raka Satrya Adizaputra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569490",
+        "nama": "Ramadhan Eka Putra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572693",
+        "nama": "Rasya Hanum Uno",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006527342",
+        "nama": "Renaldy Mindo Butarbutar",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472122",
+        "nama": "Ria Kusmara",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006487534",
+        "nama": "Risyda Marhamah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569805",
+        "nama": "Rizki Hermawan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006530236",
+        "nama": "Rizky Rahmadhani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472160",
+        "nama": "Roshifa Nur",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569692",
+        "nama": "Ruci Kayon Mahadewy",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471933",
+        "nama": "Saffa Nailah Zafirah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472444",
+        "nama": "Safu Aji Dharma Kusuma",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569723",
+        "nama": "Salsa Muafiroh",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486241",
+        "nama": "Satrio Rifqi Wicaksono",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006487603",
+        "nama": "Savannah Jamal",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006525620",
+        "nama": "Shakila Sania Parsa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569710",
+        "nama": "Shinta Azzahra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482861",
+        "nama": "Shita Shahifa Iqlima",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006524126",
+        "nama": "Siti Nabila",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572806",
+        "nama": "Siti Sathifah Illahi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471851",
+        "nama": "Sopi Maulidia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484886",
+        "nama": "Syahrani Nur Anisa Irfiyanti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569534",
+        "nama": "Tasya Vika Damayanti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006533521",
+        "nama": "Taufan Sebastian",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569780",
+        "nama": "Taufik Hidayat",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472324",
+        "nama": "Terra Rosa Ernita Sihombing",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569856",
+        "nama": "Tiara Irfani Amanda",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572674",
+        "nama": "Triyasinta Noor",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569465",
+        "nama": "Usamah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472002",
+        "nama": "Vandy Arnu Dewa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569635",
+        "nama": "Yasmin Fathya Nurrahmah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569761",
+        "nama": "Yosafat",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006535836",
+        "nama": "Zahfa Rahma Aulia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572775",
+        "nama": "Zahra Novica",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006569641",
+        "nama": "Zidane Amru",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571854",
+        "nama": "Abrar Argya Adana",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484614",
+        "nama": "Adelia Angel",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571614",
+        "nama": "Adhenisa Ratna Augustin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485895",
+        "nama": "Adhikara Wicaksana Ismono",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532670",
+        "nama": "Adi Syaifulah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006534285",
+        "nama": "Adinda Nayladiansyah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573273",
+        "nama": "Adiva Tabina Mulya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482571",
+        "nama": "Adnan Xavier Ritonga",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573235",
+        "nama": "Adriel Sebastian",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573304",
+        "nama": "Ahmad Fagih",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521641",
+        "nama": "Ahmad Rosyiq",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571923",
+        "nama": "Alexander Christopher",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528585",
+        "nama": "Alika Maulidina Safira",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573380",
+        "nama": "Alwinas David Sanjaya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571803",
+        "nama": "Alzi Islamey Malano",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483864",
+        "nama": "Amelia Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532134",
+        "nama": "Amrita Vella W",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571942",
+        "nama": "Ana Anisa Amalia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572106",
+        "nama": "Anak Agung Adi Putra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471340",
+        "nama": "Ananda Hamida",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571936",
+        "nama": "Andreas Willardy",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572030",
+        "nama": "Angel Nathasya Emerald",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571583",
+        "nama": "Angela Patresia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472822",
+        "nama": "Angeline Calysta",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472564",
+        "nama": "Annisa Maharani Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571690",
+        "nama": "Ardana Rahadiyan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006531724",
+        "nama": "Arief Farhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572112",
+        "nama": "Arkan Adiyatma",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006523565",
+        "nama": "Aryo Bimo Pratama",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572062",
+        "nama": "Aryosatyo Bhanurahman",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573405",
+        "nama": "Audrie Meisya Pramesti Setiawan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471731",
+        "nama": "Axcell Alfino Is",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485226",
+        "nama": "Ayudya Widowati",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006535514",
+        "nama": "Azelia Maudine",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486506",
+        "nama": "Azka Naufal Irvyant",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006526264",
+        "nama": "Bagas Satria Fadhlillah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482470",
+        "nama": "Beefrhanna Arrasy Busyra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571532",
+        "nama": "Benita",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483643",
+        "nama": "Bryan Kahn",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471656",
+        "nama": "Bryan Reynald Kaligis",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573191",
+        "nama": "Chairun Nisa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006520986",
+        "nama": "Christyan Musu",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484223",
+        "nama": "Cindana Ardya Pc",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471302",
+        "nama": "Cornelia Magdalena",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571753",
+        "nama": "Daffa Ammar Kusuma",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006524883",
+        "nama": "Daffa Musyaffa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006524302",
+        "nama": "Deva Fitriani Rahayu",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472980",
+        "nama": "Devando Samuel",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571766",
+        "nama": "Dhimas Aristya Pratama",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571980",
+        "nama": "Diaz Amartha",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486544",
+        "nama": "Dita Aulia Shabrina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572043",
+        "nama": "Erik Wijaya Nurmiftalifa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006523571",
+        "nama": "F. Jonathan Kartawidjaja",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571596",
+        "nama": "Fadella Hijjah Alhawa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572081",
+        "nama": "Faiz Rabbani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471460",
+        "nama": "Faneza Nur Mardania",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006535344",
+        "nama": "Fanuel Marudut",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006536523",
+        "nama": "Farizan Qurunulbahri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573254",
+        "nama": "Fathiah Mubina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571665",
+        "nama": "Gifa Asmahan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472684",
+        "nama": "Grace Sonia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471611",
+        "nama": "Hanna Michella",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572005",
+        "nama": "Hasdy Muhammad",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571601",
+        "nama": "Humaira Asfa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573260",
+        "nama": "Ihsan Shodikin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006522713",
+        "nama": "Imanuel S.L.S.",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571570",
+        "nama": "Irenna",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006487502",
+        "nama": "Irfan Muhammad",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472791",
+        "nama": "Irfansyah Aswaly",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472646",
+        "nama": "Istiqomah Nur Aziizah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573310",
+        "nama": "Kevin Dewanto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486216",
+        "nama": "Kevin Raihan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572056",
+        "nama": "Khowash Syarfah Itsnaen",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485270",
+        "nama": "Kresna Dwipa Setyanto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006525482",
+        "nama": "Laurensius Kristianto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573411",
+        "nama": "M. Taufiq Maulana Wicaksana Purstyadi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521862",
+        "nama": "Maryam Shiddiqah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571633",
+        "nama": "Maulana Aziz Arrazi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471574",
+        "nama": "Michael Topik Parsaoran",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483782",
+        "nama": "Mochammad Farandhi Shika Alginata",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472601",
+        "nama": "Mohammad Ega Raihan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006524510",
+        "nama": "Muh Irdhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006530715",
+        "nama": "Muhammad Arif M",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006536214",
+        "nama": "Muhammad Awaludin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573361",
+        "nama": "Muhammad Faqih Haidar",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485674",
+        "nama": "Muhammad Ikrimah Muzakkir",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571961",
+        "nama": "Muhammad Irfan Satrio",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571545",
+        "nama": "Muhammad Rafli",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571974",
+        "nama": "Muhammad Raihan Avisyal",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573374",
+        "nama": "Muhammad Revanza Deandra Ramadhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006523943",
+        "nama": "Muhammad Syafwan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571822",
+        "nama": "Muhammad Wira",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573393",
+        "nama": "Muhammad Yusri Luthfi Fauzi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571904",
+        "nama": "Muhammad Zahran",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006536870",
+        "nama": "Muhammad Zain",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006527456",
+        "nama": "Muthiah Ghina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521250",
+        "nama": "Nabiya Desa Puti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006481915",
+        "nama": "Nadda Zafira",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573203",
+        "nama": "Nadi Asiilah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573241",
+        "nama": "Naldo Sabriyanda",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472766",
+        "nama": "Nameera Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573355",
+        "nama": "Naufal Ammar Motota",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006531573",
+        "nama": "Naufal Faiz Dermawan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571551",
+        "nama": "Nicho Novarisandi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571955",
+        "nama": "Nozzel Seagal Simanjuntak",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471422",
+        "nama": "Nur Safana Putri Ramadhini",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571620",
+        "nama": "Nurul Maulidira Fauzi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571785",
+        "nama": "Nussa Raffiandana",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471694",
+        "nama": "Paulus Jirre Hacika Taihitu Is",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472860",
+        "nama": "Rafazio Alanza",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486462",
+        "nama": "Rafi Mahardika Lukman",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486260",
+        "nama": "Rafli Adestia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472904",
+        "nama": "Rahel Naibaho",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006487414",
+        "nama": "Rahmania Isfahani Latifah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483183",
+        "nama": "Ralfy Ruben Rialdi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573336",
+        "nama": "Randi Joel Oktavianus Tarigan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006487370",
+        "nama": "Rani Riantika",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572125",
+        "nama": "Ravano Salfarisi Maskar",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571564",
+        "nama": "Rayendra Vida",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572094",
+        "nama": "Raymondito Sadatigor",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006536050",
+        "nama": "Rico Surya Madani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006525974",
+        "nama": "Ridho Mardhatillah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571910",
+        "nama": "Rifa Bintang Anggareksa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486292",
+        "nama": "Rika Cantika Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572011",
+        "nama": "Rizka Destiana Novani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486222",
+        "nama": "Rizka Hanna Pramitha",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571772",
+        "nama": "Rizky Christian",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471536",
+        "nama": "Ruth Emmanuella",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006530860",
+        "nama": "Sabrina Nurhalisa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571671",
+        "nama": "Sadam Reva Fahlevi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571892",
+        "nama": "Salsabila Azzahra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571860",
+        "nama": "Satrio Adi Utomo",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571740",
+        "nama": "Setianto Nugroho",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571652",
+        "nama": "Shafiyah Hurun 'In",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571734",
+        "nama": "Silverius Rinovicto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571841",
+        "nama": "Siti Zahra Sulthanah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521856",
+        "nama": "Syahrul Amru",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472721",
+        "nama": "Syarifah Azzurri Nindya Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571835",
+        "nama": "Syawanala Fitria Ramadhani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006523634",
+        "nama": "Sylviana Mulia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571702",
+        "nama": "Teuku Raihan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006524025",
+        "nama": "Tiurmay Agnes",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571886",
+        "nama": "Tivani Yuliansyah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006524706",
+        "nama": "Utari Apriliani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471492",
+        "nama": "Vania Rosalie",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571816",
+        "nama": "Venanda Nofriska Devi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006471385",
+        "nama": "Wangi Akbar Maulana",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521830",
+        "nama": "Wiji Laras",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486475",
+        "nama": "Yoga Murpadinata",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006472942",
+        "nama": "Yohana Apriana",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572075",
+        "nama": "Yosef Timoty",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571646",
+        "nama": "Yudha Adi Putra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006529423",
+        "nama": "Zulvanny Akbar",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532891",
+        "nama": "Abiel Athaya Putra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486065",
+        "nama": "Adellia Rahmarani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568701",
+        "nama": "Adhiemas Wisanggeni",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006533143",
+        "nama": "Aditya Firmansyah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521300",
+        "nama": "Agustinus Bravy Tetuko Ompusunggu",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571186",
+        "nama": "Ainun Syafna Maharani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572945",
+        "nama": "Aisyah Gefira",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463622",
+        "nama": "Akhmad Naufal Mujib",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006533295",
+        "nama": "Aldinda Albanna",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473024",
+        "nama": "Aldo Virgalia Rudianto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568765",
+        "nama": "Alexandria Samantha Nicole",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571431",
+        "nama": "Alfina Rizqi Fadila",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006520954",
+        "nama": "Amanda Rizki Zharifah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006524050",
+        "nama": "Ananda Rizky Ardha Saputra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483523",
+        "nama": "Anantawidya Prayoga",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571040",
+        "nama": "Andini Assyahidah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006522000",
+        "nama": "Angelica Patricia Djaya Saputra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006464152",
+        "nama": "Angelina Putri Silitonga",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482275",
+        "nama": "Ankisha Farha Maudi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571015",
+        "nama": "Annisa Fairus Zahira",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463295",
+        "nama": "Annisa Zahra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568790",
+        "nama": "Antonius Rangga Hapsoro W",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568582",
+        "nama": "Aqila Zahra Vanisa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463465",
+        "nama": "Arundhati Naysa Ekhaputri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572264",
+        "nama": "Atifa Dalia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568815",
+        "nama": "Aulia Zahra Alika Swity",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571192",
+        "nama": "Auranissa Efrida Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006535382",
+        "nama": "Averey Sinclair",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006525204",
+        "nama": "Azalia Chika Barsella",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572983",
+        "nama": "Azizah Annurohmah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571394",
+        "nama": "Bagas Aditya Mulyanto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571173",
+        "nama": "Bintang Anugrah Alam",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568784",
+        "nama": "Bonardo Lubis",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571450",
+        "nama": "Bradley Immanuel Hetharia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532815",
+        "nama": "Carissa Angelina Susanto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568613",
+        "nama": "Carles Octavianus",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572932",
+        "nama": "Chrisogonus James Ang Gunadi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571526",
+        "nama": "Christian Oloan August",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006530343",
+        "nama": "Christopher Joseph Gunawan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463774",
+        "nama": "Cindy Fara Nabila",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006529769",
+        "nama": "Cornelius Justin Satryo Hadi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473365",
+        "nama": "Cya Dessylia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463420",
+        "nama": "Daffa Al Ghifary",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006520683",
+        "nama": "Daikimaharudeika Shirota",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571412",
+        "nama": "Daniel Laorencius",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006534890",
+        "nama": "Daniel Rivaldo Haryanto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570946",
+        "nama": "Daranita Sukmajati",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568821",
+        "nama": "Dea Alifia Maharani Siregar",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568885",
+        "nama": "Deby Febriani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006607715",
+        "nama": "Devia Andini",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473226",
+        "nama": "Dewa Ayu Putu Sekarani Rastiti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006531195",
+        "nama": "Dewita Oktavia Nuur Marwan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473466",
+        "nama": "Diva Marchandra Mulansari",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006525923",
+        "nama": "Dwight J.O. Hutagulung",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571261",
+        "nama": "Dylan Arlen",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473390",
+        "nama": "Edbert Djohan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571375",
+        "nama": "Elbert Krison",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571500",
+        "nama": "Emmanuel Justin Heumasse",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473434",
+        "nama": "Erika Kasmi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485011",
+        "nama": "Evan Haryowidyatna",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571116",
+        "nama": "Fadhilah Daffa Yoriko",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568670",
+        "nama": "Fajri Marizki",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482911",
+        "nama": "Fakhri Aditia Saputra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572882",
+        "nama": "Farah Tri Nurul Hayati",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568664",
+        "nama": "Farkhan Syawal Harahap",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006525886",
+        "nama": "Fauzan Hilmy Mulyawan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006523672",
+        "nama": "Faza Muthmainnah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463976",
+        "nama": "Felicia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568853",
+        "nama": "Fenny Fadhilah Zakiyyatunnisa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571293",
+        "nama": "Ferdinand Tori",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006531806",
+        "nama": "Fika Khoiriyah Nurfajar Taufiq",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572213",
+        "nama": "Filia Rosalina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571236",
+        "nama": "Gabriel Rico Fortino",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571141",
+        "nama": "Galih Nur Kantaatmaja",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571280",
+        "nama": "Georgius Diko Parulian",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571482",
+        "nama": "Gestrisia Gunawan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483694",
+        "nama": "Ghefira Nur Fatimah Widyasari",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528774",
+        "nama": "Gilbert Gentania",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006531642",
+        "nama": "Gita Aras Paramesti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006534556",
+        "nama": "Gladys Nathania Banuarea",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528484",
+        "nama": "Glene Felix",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463736",
+        "nama": "Hastuti Hera Hardiyanti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571305",
+        "nama": "Henokh Melki Sedek",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568632",
+        "nama": "Herardita Cahyaning Wulan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463332",
+        "nama": "Hosia Josindra Saragih",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568720",
+        "nama": "Ichsan Rivaldi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006530280",
+        "nama": "Imam Dhaifullah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571204",
+        "nama": "Inez Aurellia Rosyana",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006523230",
+        "nama": "Intan Juwitahari",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571223",
+        "nama": "Irba Alifa Taqiyya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006529064",
+        "nama": "Irene Devina Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571381",
+        "nama": "Irene Patricia Wibowo",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571324",
+        "nama": "Ivana Ratnaputri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571034",
+        "nama": "Jasmine Husna Sanditya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572150",
+        "nama": "Javier Bintoro",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006534392",
+        "nama": "Javier Noval Athallah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006523956",
+        "nama": "Jechonias Axel Putra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568733",
+        "nama": "Jeremi Okto Ricardo Marpaung",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571085",
+        "nama": "Joan Bidadari Annandale",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473320",
+        "nama": "Jocelyn Ryu",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473062",
+        "nama": "Joesoef Septiadi Wijaya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006529096",
+        "nama": "Jonathan Hadi Prasteyanto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006526144",
+        "nama": "Kamilia Firzanah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006533225",
+        "nama": "Kayla Calista Ayal",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571021",
+        "nama": "Keisha Janita",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006464013",
+        "nama": "Kesia Gabriele",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572964",
+        "nama": "Kezia Emanuela",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570990",
+        "nama": "Keziah Ruth Angeline Aruan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572163",
+        "nama": "Khalila Maghfirah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571513",
+        "nama": "Kheisya Amanda",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484980",
+        "nama": "Krishna Pratisena Syarif",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006464234",
+        "nama": "Laily Nur Azizah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473144",
+        "nama": "Larasati Amira",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568903",
+        "nama": "Larasati Paundrianagari R",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486935",
+        "nama": "Latifa Aulia Esmananda",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483151",
+        "nama": "Lutfia Maulidina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571311",
+        "nama": "M. Iqbal Alfatih",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463502",
+        "nama": "Maisya Mutiara Dwi Hasanah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568916",
+        "nama": "Marcella Sintauly",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571356",
+        "nama": "Margareth Ravse Betari Atmojo Prabowo",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483593",
+        "nama": "Maria Angelica Christabel",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571406",
+        "nama": "Michael Anthony",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528710",
+        "nama": "Miranda Rosely Manullang",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571495",
+        "nama": "Miray Hiro Pranata",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006464190",
+        "nama": "Monica Fanggidae",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006529184",
+        "nama": "Muhammad Adli Rahmat Solihin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006526062",
+        "nama": "Muhammad Alanna Daffa R",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571066",
+        "nama": "Muhammad Ammar Daffa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568626",
+        "nama": "Muhammad Daffa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482653",
+        "nama": "Muhammad Fabian Alkautsar",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006474014",
+        "nama": "Muhammad Faiq Fauzi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572251",
+        "nama": "Muhammad Habil Amardias",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006487566",
+        "nama": "Muhammad Hanif Pramudya Zamzami",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006534530",
+        "nama": "Muhammad Hilmy Putra R",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463982",
+        "nama": "Muhammad Jauhar Hakim",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521572",
+        "nama": "Muhammad Majid Rafi Musyaffa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568645",
+        "nama": "Muhammad Rafly Januar",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571053",
+        "nama": "Muhammad Rayhan Nuansa Adha",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568840",
+        "nama": "Muhammad Zulkifli",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006535003",
+        "nama": "Mutiara Anissa Nurman",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521742",
+        "nama": "Nadhila Nur Qamarina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483542",
+        "nama": "Nadia Hartini Kusumawijaya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482451",
+        "nama": "Nadiva Mazaya Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571122",
+        "nama": "Nafisya Alya Aurelitha",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463931",
+        "nama": "Najwa Mufidah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572895",
+        "nama": "Natania Agustin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006533710",
+        "nama": "Naufal Fachri Muhammad",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006522700",
+        "nama": "Ni Made Lidya Anggreni",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532701",
+        "nama": "Nicholas Sky Salvatio",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568866",
+        "nama": "Nida Nur Faiza",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571072",
+        "nama": "Nisrina Anbar Fadhilah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571103",
+        "nama": "Nurrochmi Andina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463811",
+        "nama": "Nurul Qomariah Abdillah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006464114",
+        "nama": "Olivia Felicia Utomo",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568683",
+        "nama": "Olivia Jovita Sebayang",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568600",
+        "nama": "Owen Mulianto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570933",
+        "nama": "Owen Susanto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006522322",
+        "nama": "Peksyaji",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572176",
+        "nama": "Petra Manuela",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572200",
+        "nama": "Prisalo Luis Graciano",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006525923",
+        "nama": "Putri Maharani Ardiasih",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570952",
+        "nama": "Raafi Putri Ramadhani Salamah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521420",
+        "nama": "Rachel Aurellia Irawan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521420",
+        "nama": "Rachel Octaviani Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486153",
+        "nama": "Rafa Elmira Afiani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572226",
+        "nama": "Rafaella Garcinia Gayatri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528736",
+        "nama": "Rafi Alvanzah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473182",
+        "nama": "Rafial",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485705",
+        "nama": "Raissa Puti Auliya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572876",
+        "nama": "Raistra Aurel",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528093",
+        "nama": "Rania Nur Farahiyah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463540",
+        "nama": "Regita Celia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006533383",
+        "nama": "Rendi Hartadi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485024",
+        "nama": "Reynee Joyvina Freeina Anthonia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006536246",
+        "nama": "Ria Rahma Septiani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568595",
+        "nama": "Richard Mulyadi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528061",
+        "nama": "Rifka Amalia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572245",
+        "nama": "Rima Farahdina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571210",
+        "nama": "Russel Obaja",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483246",
+        "nama": "Ruth Intan Davina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571002",
+        "nama": "Ryan Caleb",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572182",
+        "nama": "Ryan Fathurrachman",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483845",
+        "nama": "Sabrina Putri Radissa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572926",
+        "nama": "Sachi Kirana Hera Singh",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486550",
+        "nama": "Safira Mecca Lovani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568891",
+        "nama": "Safira Raissa Rahmi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006536126",
+        "nama": "Salma Mazaya Fasya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463856",
+        "nama": "Salsabilla",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571154",
+        "nama": "Salsana Siti Hatmanti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571242",
+        "nama": "Sandy Nathanael",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463654",
+        "nama": "Sandy Yulia Pradana",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463250",
+        "nama": "Sarah Syahidah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483126",
+        "nama": "Sekar Tunjung Prier Kiranasari",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572195",
+        "nama": "Shanes Lavines L",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568714",
+        "nama": "Siera Barokatillah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572970",
+        "nama": "Sisawati Simandalahi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568922",
+        "nama": "Siti Khamilaah Sayid",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571274",
+        "nama": "So Yuan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473996",
+        "nama": "Steven Fernaldy Tanno",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571330",
+        "nama": "Steven Tjayadi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006536151",
+        "nama": "Sultan Ramadhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482735",
+        "nama": "Syarif Abyan Shahab",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2996463370",
+        "nama": "Sylvia Rizky Dwi Novianti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006474001",
+        "nama": "Tahta Aulia Kusuma Arifin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473106",
+        "nama": "Theresia Vanesa Silviresta",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568802",
+        "nama": "Tulus Setiawan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570965",
+        "nama": "Valery Ongso",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482073",
+        "nama": "Vito Waradana",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482376",
+        "nama": "Wanda Puspita Hati",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572913",
+        "nama": "Widyadari Dhiya Parahita",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006487326",
+        "nama": "Wildan Damar Adji",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006531384",
+        "nama": "William Arifin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463212",
+        "nama": "Yaseen Fajrie Yudha Ghozali",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571091",
+        "nama": "Yasmin Khairunnisa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528982",
+        "nama": "Yemima Kathleen Monica",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006568696",
+        "nama": "Yohanes Bryan Sagala",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463894",
+        "nama": "Yovela Natalia Yvone",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006530942",
+        "nama": "Yudistira Dwi Cahya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006571463",
+        "nama": "Yuven Yona Aristo Pamirma",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572951",
+        "nama": "Zhafirah Tsany",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573185",
+        "nama": "Aanisah Wahyu Cahyarani W",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482331",
+        "nama": "Adhin Cakrabuana",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570782",
+        "nama": "Aditya Chandra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006487572",
+        "nama": "Adrian Khrisna Muda",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006462771",
+        "nama": "Afifa Hasna Maristya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570914",
+        "nama": "Afifah Mulyani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484053",
+        "nama": "Aghnia Khaerunnisa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463175",
+        "nama": "Ahmad Fauzi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532834",
+        "nama": "Alifa Kamila",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532304",
+        "nama": "Alifah Nurul Saffanah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570694",
+        "nama": "Alifia Azzahra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573153",
+        "nama": "Allyssa Devi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570454",
+        "nama": "Almansycah Widianarko",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570800",
+        "nama": "Almar Atus Sholihah Farhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006535994",
+        "nama": "Alya Maharani Irliana",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484961",
+        "nama": "Alya Ratnazavira Prasetyo",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006462733",
+        "nama": "Amelia Candra Wati",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486254",
+        "nama": "Andien Najwa Karlthrina Dean Permana Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006534713",
+        "nama": "Andin Raihan Fadillah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570656",
+        "nama": "Andita Junia Mulyadi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006527563",
+        "nama": "Andreas Febrianto Silalahi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006523306",
+        "nama": "Angelina Audi Ardya Pramesti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473541",
+        "nama": "Aningtyas Gati Candra Dewi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570744",
+        "nama": "Anisa Nur Fadhila",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573020",
+        "nama": "Anisah Khairiyah Gusmaywati",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463130",
+        "nama": "Annisa Fitri Salsabila",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485075",
+        "nama": "Aqilah Widyayu",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570826",
+        "nama": "Ardiles Siregar",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573014",
+        "nama": "Arina Muzayyanah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570864",
+        "nama": "Assyifa Windia Dwi Maharani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463093",
+        "nama": "Audryan Pradipta",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484923",
+        "nama": "Azleen Tsabita Ashil Fauzi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573071",
+        "nama": "Bellatania Nurcahyani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484766",
+        "nama": "Bian Shafi Muhammad",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570750",
+        "nama": "Bintang Pratama",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573134",
+        "nama": "Cantika Jihan Apriliany",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473655",
+        "nama": "Chandra Beixon",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006532380",
+        "nama": "Choirunnisa Aurelia Putri Ramadhania",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483813",
+        "nama": "Cindara Nissa Septesatarin",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473503",
+        "nama": "Clarintan Melati Azizah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006572996",
+        "nama": "Cleonie Aurellia Liemson",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521332",
+        "nama": "Daffa Satria Jamil",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006525545",
+        "nama": "Danila Tumonglo",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570435",
+        "nama": "Decynka Zanasheilaya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573172",
+        "nama": "Deden Dharmawan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570510",
+        "nama": "Diah Pramesty Sri Maryanto",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006526005",
+        "nama": "Dianyra Azzahra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528194",
+        "nama": "Dina Ikrama Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570441",
+        "nama": "Dinda Theresia Lunardi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570706",
+        "nama": "Dwi Ramadhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006527512",
+        "nama": "Elsie Liestiani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573046",
+        "nama": "Erika Rizky Wulandari",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570536",
+        "nama": "Faizah Tsurayya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006462632",
+        "nama": "Fanny Mourencia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570624",
+        "nama": "Farah Marcheila Putri Widayu",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006527254",
+        "nama": "Fathiya Chairani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006531106",
+        "nama": "Fazahra Salsabila",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573166",
+        "nama": "Febbeline",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570851",
+        "nama": "Fenida Larasaty Patandung",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006529852",
+        "nama": "Fredella Sylvania Aurelia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570486",
+        "nama": "Hasan Maulana Ibrahim",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570574",
+        "nama": "Hashina Rizky Azaria",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570920",
+        "nama": "Idmar Aulia Putra",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006462891",
+        "nama": "Inang Fitri Maulina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006483063",
+        "nama": "Irene Rizky Safina Daulay",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570813",
+        "nama": "Isti Qomariah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573090",
+        "nama": "Jauza Putri Maharani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570795",
+        "nama": "Jeannifer Venice Trissa Pertiwi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528912",
+        "nama": "Jelita Cahyandari",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570896",
+        "nama": "Joice Laurentina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570473",
+        "nama": "Jonathan Calvin Limawal",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006525343",
+        "nama": "Jonathan Evan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006462670",
+        "nama": "Julyana Ruth Lydia Margareta",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570593",
+        "nama": "Katherine Regina H",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006534511",
+        "nama": "Kathleen Angelica",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570492",
+        "nama": "Lois G Sirait",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473586",
+        "nama": "Luthfiah Zahratul Kaamilah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573001",
+        "nama": "Lyubimaya Danindra Nugroho",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006462973",
+        "nama": "Madeleine Rosaline Therik",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570725",
+        "nama": "Maharani Dina Syarifa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573065",
+        "nama": "Maria Kiara Anindita",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006484955",
+        "nama": "Mario Caesar Arrahman",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463010",
+        "nama": "Muhammad Dalili Al Faris",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570870",
+        "nama": "Muhammad Dandy Septiyan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570681",
+        "nama": "Muhammad Fahrezi Oktavian",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570555",
+        "nama": "Muhammad Habiburohman",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570712",
+        "nama": "Muhammad Hafid Thoyibi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573102",
+        "nama": "Muhammad Iqbal Sudrajat",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573140",
+        "nama": "Muthi Nabila Rachman",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006487433",
+        "nama": "Nabila Apsari Dwina Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485251",
+        "nama": "Nabila Bisansa Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570675",
+        "nama": "Nabilla Amalia Syarifa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485081",
+        "nama": "Nadhifah Mumtaz",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485926",
+        "nama": "Nadia Rahma Prasanti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006486494",
+        "nama": "Nasywa Rana Ardiyanti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570630",
+        "nama": "Natasya Riskiana Early Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570662",
+        "nama": "Novelia Sinta Rahmawati",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006535956",
+        "nama": "Novia Angelina Silalahi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570832",
+        "nama": "Nur Fidia Alim",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006469254",
+        "nama": "Nurhaliza Marsha Kirani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006524504",
+        "nama": "Pranandha Daffa Aditya",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006473623",
+        "nama": "Purwantiyo",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573115",
+        "nama": "Putri Nabilah Kyesha Manan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006573052",
+        "nama": "Rafi Aulia Yudistira",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006521130",
+        "nama": "Rafi Ramadhan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006462815",
+        "nama": "Raflian Adam Khairananda",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006482193",
+        "nama": "Raisha Adis Yulia",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570776",
+        "nama": "Revikhansa Azarine Saputri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006534783",
+        "nama": "Riefky Ichsan Baihaqi",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570731",
+        "nama": "Salsabila Syifa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570845",
+        "nama": "Saniyah Rizkiyah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570763",
+        "nama": "Sarah Adhira Rahmah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006485043",
+        "nama": "Sayyid Arkaan",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570504",
+        "nama": "Sintesa Ulfah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570460",
+        "nama": "Syifa Amanda Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528023",
+        "nama": "Tasya Mega Putri",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570605",
+        "nama": "Tiara Nabila Azzulfa",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006535533",
+        "nama": "Tika Indrianti",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570901",
+        "nama": "Tiofani Erlina",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006462935",
+        "nama": "Tsalits Shabrina Chayrani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570523",
+        "nama": "Uli Hasian Sitompul",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006527866",
+        "nama": "Valerie Gianina Mareta",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006570883",
+        "nama": "Vidia Hapsari",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006462853",
+        "nama": "Wafiq Azizah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006520424",
+        "nama": "Widad Sri Salamah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006531226",
+        "nama": "Yasmine Nawal Azizah",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006533401",
+        "nama": "Yoel Imanuel",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006463055",
+        "nama": "Yulia Retno Handayani",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006528162",
+        "nama": "Yusalma Rizqi Wibowo",
+        "fakultas": "FMIPA"
+    },
+    {
+        "npm": "2006524372",
+        "nama": "Zeusa Rainardi Muhammad",
+        "fakultas": "FMIPA"
+    }
+]
